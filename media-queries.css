@@ -1,0 +1,20 @@
+@media only screen and (max-width:1366px) {
+    a.ins{
+        margin: 25px 155px 25px 0;
+    }
+}
+@media only screen and (max-width:1024px) {
+    h1.home{font-size: 30px;}
+    a.main{width: 100px;}
+}
+@media only screen and (max-width:768px) {
+    h1.home{font-size: 27px;}
+    span.small{font-size: 20px;}
+    a.main{width: 80px;}
+}
+@media only screen and (max-width:670px) {
+    h1.home{margin-top: 0;}
+}
+@media only screen and (max-width:320px) {
+
+}
